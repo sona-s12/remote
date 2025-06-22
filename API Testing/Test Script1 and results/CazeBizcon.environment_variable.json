@@ -1,0 +1,147 @@
+{
+	"id": "68bcefc8-89bd-4262-88d5-25d67bcef4bd",
+	"name": "bizcon",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://35.207.254.19:5000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "2002sonashaji@gmail.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "xeooxckwhhklnrxj",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lead_uuid",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lead_email",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "link_base",
+			"value": "http://35.207.254.19:5000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "link_path",
+			"value": "/chat?user=",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "valid_file",
+			"value": "sutherland_pdf.pdf",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "existing_file",
+			"value": "sutherland_pdf.pdf",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "multi_file1",
+			"value": "Technical_writer.pdf",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "multi_file2",
+			"value": "FrontEnd.pdf",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "invalid_file",
+			"value": "pic.png",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "valid_lead",
+			"value": "valid_leads.xlsx",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "invalid_lead",
+			"value": "invalid_lead.xlsx",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lead_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "endpoint",
+			"value": "https://ai-gpu-ps.openai.azure.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "api_key",
+			"value": "83qaoaQP1QBQS01yPO7NR7JWAHrXf2AJxshpHGoq6y3gmLzpNicfJQQJ99BCACYeBjFXJ3w3AAABACOGyJoT",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "api_version",
+			"value": "2025-01-01-preview",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "deployment",
+			"value": "gpt-4o-mini-apr09",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "embedding_deployment",
+			"value": "text-embedding-large-new",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "product_name",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lead1",
+			"value": "lead1.xlsx",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lead2",
+			"value": "lead2.xlsx",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-06-21T16:17:19.778Z",
+	"_postman_exported_using": "Postman/11.50.6"
+}
